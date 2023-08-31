@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right, #a00606, #e9e8e7);
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
+}
+
+div {border-style:groove;}
+div {border-color: rgb(255, 255, 255);}
+
+.flex-container {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+  }
+
+.rounded {
+    border-radius: 15px;
+}
+
+
+.rounded {
+    border-radius: 15px;
+}
+
+article  {font-size: 24px;
+font-family: "Your Chosen Font", Arial, sans-serif;}
